@@ -1,13 +1,13 @@
-# Base-Component
-Base Component
+# Base-Radio-Group Component
+Base Radio Component
 
 ## Purpose
-Reusable Component
+Reusable Component for grouping radios
 
 ## Explaination
-[Vue Mastery: BaseCheckbox](https://www.vuemastery.com/courses/vue3-forms/base-checkbox)
+[Vue Mastery: Base Radio Group](https://www.vuemastery.com/courses/vue3-forms/baseradiogroup)
 
-[BaseCheckbox.vue](./BaseCheckbox.vue)
+[BaseRadioGroup.vue](./BaseRadioGroup.vue)
 
 - event structure (defined in App)
 ```
@@ -49,6 +49,3 @@ None
           label="Catering"
         />
 ```
-
-
-[<BaseCheckbox v-model="event.extras.catering" label="Catering"/](https://gist.githubusercontent.com/efwoods/ea8d10c27ad2be109d75f607688fbe78/raw/a9af4127757421f9804e3ebc45a709a4f37af18d/BaseCheckbox.vue)
